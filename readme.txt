@@ -4,14 +4,14 @@ Pulse-coupled neural networks (PCNN) have an inherent ability to process the sig
 
 If you use these demos, we appreciate it if you cite the following paper:
 
-@article{zhan2016computational,
-  title = {Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review},
-  author = {Zhan, K and Shi, J and Wang, H and Xie, Y and Li, Q},
-  journal = {Archives of Computational Methods in Engineering},
-  pages = {1--16},
-  year = {2016},
-  doi = {10.1007/s11831-016-9182-3},
-  publisher={Springer}
+@Article{zhan2016computational,
+  author =    {Zhan, K and Shi, J and Wang, H and Xie, Y and Li, Q},
+  title =     {Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review},
+  journal =   {Archives of Computational Methods in Engineering},
+  year =      {2016},
+  pages =     {1--16},
+  doi =       {10.1007/s11831-016-9182-3},
+  publisher = {Springer}
 }
 
 
