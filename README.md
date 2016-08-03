@@ -13,4 +13,5 @@ are provided to make it clear and concise.
 
 Reference:
 K Zhan, J Shi, H Wang, Y Xie, Q Li, "Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review," Archives of Computational Methods in Engineering, 2016.
+
 http://www.escience.cn/people/kzhan
