@@ -1,20 +1,18 @@
-FLM
+Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review
 
-Feature linking model for image enhancement
+Pulse-coupled neural networks (PCNN) have an inherent ability to process the signals associated with the digital visual images because it is inspired from the neuronal activity in the primary visual area, V1, of the neocortex. This paper provides insight into the internal operations and behaviors of PCNN, and reveals the way how PCNN achieves good performance in digital image processing. The various properties of PCNN are categorized into a novel three-dimensional taxonomy for image processing mechanisms. The first dimension specifies the time matrix of PCNN, the second dimension captures the firing rate of PCNN, and the third dimension is the synchronization of PCNN. Many examples of processing mechanisms are provided to make it clear and concise.
 
-Inspired by gamma-band oscillations and other neurobiological discoveries, neural networks research shifts the emphasis towards temporal coding, which uses explicit times at which spikes occur as an essential dimension in neural representations. We present a feature linking model (FLM) that uses the timing of spikes to encode information. The first spiking time of FLM is applied to image enhancement, and the processing mechanisms are consistent with human visual system.
+If you use these demos, we appreciate it if you cite the following paper:
 
-If you use the Feature linking model, we appreciate it if you cite an appropriate subset of the following paper:
-
-@Article{zhan2016feature,
-  author =    {Zhan, K. and Teng, J. and Shi, J. and Li, Q. and Wang, M.},
-  title =     {Feature-linking model for image enhancement},
-  journal =   {Neural Computation},
-  year =      {2016},
-  volume =    {28},
-  number =    {6},
-  pages =     {1072--1100},
-  publisher = {MIT Press}
+@article{zhan2016computational,
+  title = {Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review},
+  author = {Zhan, K and Shi, J and Wang, H and Xie, Y and Li, Q},
+  journal = {Archives of Computational Methods in Engineering},
+  pages = {1--16},
+  year = {2016},
+  doi = {10.1007/s11831-016-9182-3},
+  publisher={Springer}
 }
+
 
 http://www.escience.cn/people/kzhan
