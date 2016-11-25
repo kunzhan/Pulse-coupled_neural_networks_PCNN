@@ -1,6 +1,12 @@
-Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review
+Pulse-coupled neural networks (PCNN) have an inherent ability to process the signals associated with the digital visual images because it is inspired from the neuronal activity in the primary visual area, V1, of the neocortex.  Many examples of processing mechanisms are provided to make it clear and concise.
 
-Pulse-coupled neural networks (PCNN) have an inherent ability to process the signals associated with the digital visual images because it is inspired from the neuronal activity in the primary visual area, V1, of the neocortex. This paper provides insight into the internal operations and behaviors of PCNN, and reveals the way how PCNN achieves good performance in digital image processing. The various properties of PCNN are categorized into a novel three-dimensional taxonomy for image processing mechanisms. The first dimension specifies the time matrix of PCNN, the second dimension captures the firing rate of PCNN, and the third dimension is the synchronization of PCNN. Many examples of processing mechanisms are provided to make it clear and concise.
+Algorithm_6.m  ---  image de-noising / restoration demo
+figure_2.m     ---  The PCNN 1-D demo
+figure_4.m     ---  The PCNN wave demo
+figure_6.m     ---  The Image Histogram demo
+figure_7.m     ---  The Image Segmentation demo
+figure_8.m     ---  The Feature Extraction demo
+figure_9.m     ---  The Image Enhancement demo
 
 If you use these demos, we appreciate it if you cite the following paper:
 
