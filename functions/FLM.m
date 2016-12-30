@@ -1,5 +1,5 @@
 function Rep1gs = FLM(I)
-%   The FLM demo code was written by Kun Zhan, Jicai Teng, Jinhui Shi
+%   The FLM demo was written by Kun Zhan, Jicai Teng, Jinhui Shi
 %   $Revision: 1.0.0.0 $  $Date: 2014/11/21 $ 16:58:08 $
 
 %   Reference:
