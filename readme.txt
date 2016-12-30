@@ -20,5 +20,6 @@ If you use these demos, we appreciate it if you cite the following paper:
   publisher = {Springer}
 }
 
-
 http://www.escience.cn/people/kzhan
+
+If you have any problems on PCNN, Feel free to contact with me. (Email: kzhan#lzu.edu.cn)
