@@ -14,7 +14,7 @@ If you use these demos, we appreciate it if you cite the following paper:
   author =    {Zhan, K and Shi, J and Wang, H and Xie, Y and Li, Q},
   title =     {Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review},
   journal =   {Archives of Computational Methods in Engineering},
-  year =      {2016},
+  year =      {2017},
   pages =     {1--16},
   doi =       {10.1007/s11831-016-9182-3},
   publisher = {Springer}
