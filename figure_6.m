@@ -9,14 +9,14 @@
 
 S = imread('images\lena.jpg');
 [r,c] = size(S);
-Th = 254*ones(r,c);
+E = 254*ones(r,c);
 Y = zeros(r,c);
 H = zeros(256,1);
 h = double(max(S(:))) + 1;
 for i = 1:256
-    Y = double(S > Th);
+    Y = double(S > E);
     H(257-i) = sum(Y(:));
-    Th = Th - 1 + h*Y;
+    E = E - 1 + h*Y;
 end
 sum(abs(H - h));
 figure(1), 
