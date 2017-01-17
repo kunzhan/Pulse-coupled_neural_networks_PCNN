@@ -7,6 +7,7 @@
 %   Pulse-Coupled Neural Networks: A Comprehensive Review,"
 %   Archives of Computational Methods in Engineering, 2016.
 
+addpath('images\')
 S = imread('images\lena.jpg');
 [r,c] = size(S);
 E = 254*ones(r,c);
