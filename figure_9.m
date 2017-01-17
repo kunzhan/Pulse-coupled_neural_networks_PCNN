@@ -7,6 +7,8 @@
 %   Pulse-Coupled Neural Networks: A Comprehensive Review,"
 %   Archives of Computational Methods in Engineering, 2016.
 
+addpath('functions\'); 
+addpath('images\')
 I = imread('tire.tif');
 J = FLM(I);
 imshow([I, J])
