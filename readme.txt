@@ -22,4 +22,4 @@ If you use these demos, we appreciate it if you cite the following paper:
 
 http://www.escience.cn/people/kzhan
 
-If you have any questions on PCNN, Feel free to contact with me. (Email: kzhan#lzu.edu.cn)
+If you have any questions on PCNN, Feel free to contact with me. (Email: ice.echo#gmail.com)
