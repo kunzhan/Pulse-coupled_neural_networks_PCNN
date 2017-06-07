@@ -15,9 +15,9 @@ We appreciate it if you cite the following paper:
   title =     {Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review},
   journal =   {Archives of Computational Methods in Engineering},
   year =      {2017},
-  volume =  {24},
-  number =  {3},
-  pages =   {573--588},
+  volume =    {24},
+  number =    {3},
+  pages =     {573--588},
   doi =       {10.1007/s11831-016-9182-3},
   publisher = {Springer}
 }
