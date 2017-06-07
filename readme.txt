@@ -10,7 +10,7 @@ Algorithm_6.m  ---  image de-noising / restoration demo
 
 We appreciate it if you cite the following paper:
 
-@Article{zhan2016computational,
+@Article{zhan2017computational,
   author =    {Zhan, K and Shi, J and Wang, H and Xie, Y and Li, Q},
   title =     {Computational Mechanisms of Pulse-Coupled Neural Networks: A Comprehensive Review},
   journal =   {Archives of Computational Methods in Engineering},
